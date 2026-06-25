@@ -25,7 +25,7 @@ pip install deep-translator
 Run the Application
 
 streamlit run app.py
-
+i have also attached screenshots 
 Author
 
 SOWANDARIYA T V
